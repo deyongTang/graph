@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+langchain-core
+langchain-community
+langchain-neo4j
+langchain-huggingface==0.2.0
+neo4j
+neo4j-graphrag
+dashscope
+transformers
+datasets
+evaluate
+torch
+pymysql
+sentence-transformers
